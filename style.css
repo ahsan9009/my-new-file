@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: green;
+}
+body{
+      text-align: center;
+      background-image: url(kkk.jpg);
+      background-repeat: none;
+      background-size: cover;
+
+}
+div{
+    padding-top:5px;
+    margin:4px ;
+}
